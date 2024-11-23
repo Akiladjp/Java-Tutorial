@@ -1,3 +1,5 @@
+package OOPexample;
+
 // class test {
 
 //     String name;

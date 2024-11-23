@@ -1,3 +1,4 @@
+package OOPexample;
 import java.util.Scanner;
 
 public class testElse {
